@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+#### More Ideas, Fewer Limits ✨
+
+- ⚙️ Building with React, Next.js, Laravel, Solidity & Python  
+- 🤖 Integrating AI models and crafting secure blockchain dApps  
+- 🚀 Passionate about scalable solutions that engage and grow  
+- 🌍 Open source enthusiast, always learning and sharing
+
 <!--
 **garciadervin/garciadervin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
